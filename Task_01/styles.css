@@ -46,6 +46,7 @@ nav a:hover {
     height: 50px;
     background: #c45c26;
     z-index: 1;
+    display: none;
 }
 
 .note {
